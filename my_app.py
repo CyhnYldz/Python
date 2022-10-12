@@ -4,8 +4,8 @@ from cmath import pi
 name=input('What is your name ? ')
 print('Hello '+name)
 
-name2='bade'
-surname='Yıldız'
+name2='hasan'
+surname='hüseyin'
 age=8
 pi=3.14
 cars = ['bmw','mercedes','range rover']
